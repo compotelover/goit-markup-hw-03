@@ -128,7 +128,12 @@ p {
 }
 
 .trd-section-item {
+    border: 1px solid #E7E9FC;
+}
+
+.trd-section-item-two {
     padding-bottom: 120px;
+    border: 1px solid #E7E9FC;
 }
 
 .p-list {
